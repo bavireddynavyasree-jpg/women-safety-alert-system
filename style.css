@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: #f2f2f2;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #c62828;
+}
+
+#status {
+    font-size: 18px;
+    margin: 15px;
+    color: #333;
+}
+
+#cancelBox {
+    background: #ffebee;
+    border: 2px solid #c62828;
+    padding: 15px;
+    margin: 20px auto;
+    width: 300px;
+}
+
+.hidden {
+    display: none;
+}
+
+#cancelBtn {
+    background: #c62828;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+
+#map {
+    height: 300px;
+    margin-top: 20px;
+    display:none;
+}
